@@ -1,0 +1,14 @@
+name: katas
+description: This project contains the solutions to the katas no specific website mostly from code wars.
+version: 0.0.1
+repository: https://github.com/Mo0Khaled/katas
+
+environment:
+  sdk: ^3.3.0
+
+dependencies:
+  args: ^2.4.2
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.2

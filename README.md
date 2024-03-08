@@ -1,0 +1,1 @@
+This project contains the solutions to the katas no specific website mostly from code wars.
